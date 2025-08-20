@@ -2,7 +2,7 @@
 
 **Integrantes:**
 - Alex Santiago Jaimes Medina — 000591413  
-- Andrés Felipe Ochoa Quiroz - ID
+- Andrés Felipe Ochoa Quiroz - 000591867
 
 ---
 
