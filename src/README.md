@@ -1,1 +1,3 @@
-Aquí irá el código o pseudocódigo relacionado
+Algoritmo 
+mostrar "bienvenido al mundo de github"
+FinAlgoritmo
