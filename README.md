@@ -1,1 +1,5 @@
-# intro-sis-2025-equipo-grupogithub
+## Integrantes del grupo 
+
+- **Alex Santiago Jaimes Medina**  
+- **Andres Felipe Ochoa Quiroz**  
+
