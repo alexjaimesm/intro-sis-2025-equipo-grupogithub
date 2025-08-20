@@ -19,4 +19,5 @@ Este repositorio tiene como propósito desarollar habilidades y conocimientos en
 |-------------------|------------------|--------|
 | [Tarea 1]         | [Integrante]     | [ ]    |
 | [Tarea 2]         | [Integrante]     | [ ]    |
+| [Tarea 3]         | [Integrante]     | [ ]    |
 
