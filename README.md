@@ -3,6 +3,7 @@
 **Integrantes:**
 - Alex Santiago Jaimes Medina — 000591413  
 - Andrés Felipe Ochoa Quiroz - 000591867
+- Juan David Vera Rojas - 000586392 
 
 ---
 
@@ -18,4 +19,5 @@ Este repositorio tiene como propósito desarollar habilidades y conocimientos en
 |-------------------|------------------|--------|
 | [Tarea 1]         | [Integrante]     | [ ]    |
 | [Tarea 2]         | [Integrante]     | [ ]    |
+| [Tarea 3]         | [Integrante]     | [ ]    |
 
