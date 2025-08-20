@@ -3,7 +3,7 @@
 **Integrantes:**
 - Alex Santiago Jaimes Medina — 000591413  
 - Andrés Felipe Ochoa Quiroz - 000591867
-- Juan David Vera Rojas - 000586392
+- Juan David Vera Rojas - 000586392 
 
 ---
 
