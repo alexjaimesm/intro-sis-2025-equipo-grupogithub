@@ -52,7 +52,7 @@ Se crean con el símbolo `#`:
 
 ## 6. Código  
 
-Código en una sola linea: `print("Hola Mundo")`  
+Código en una sola línea: `print("Hola Mundo")`  
 
 Bloque de código en Python:  
 
